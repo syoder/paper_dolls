@@ -1,0 +1,15 @@
+div#doll {
+  background-color: #eee;
+  width: 600px;
+  height: 800px;
+}
+div#items {
+  position: absolute;
+  top: 20px;
+  left: 620px
+}
+div#doll img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
